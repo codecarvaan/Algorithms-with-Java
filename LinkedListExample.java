@@ -116,7 +116,6 @@ class Node{
             list.add(43);
             list.add(56);
             list.add(34);
-            
             list.addAt(2,55);
             list.deleteAt(4);
             list.getList();    
